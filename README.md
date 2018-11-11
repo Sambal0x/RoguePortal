@@ -7,3 +7,6 @@ My rogue portal used for wireless pentest engagements
 3) Modify login.php to suit your needs
 4) Run the iptables script
 5) Wait for your victim to connect and observe creds.txt
+
+
+Reference: https://www.contextis.com/en/blog/wireless-phishing-with-captive-portals
